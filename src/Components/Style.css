@@ -1,0 +1,24 @@
+.App {
+    text-align: center;
+  }
+
+div{
+    /* height: 100vh; */
+    width: 100%;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+}
+/* body{
+    /* background-color: rgb(215, 231, 233); */
+    /* color: white; */
+ */
+button{
+    padding:12px 20px;
+    background: rgb(22, 35, 36);
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform:uppercase ;
+    color: white;
+}
